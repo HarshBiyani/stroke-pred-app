@@ -22,7 +22,7 @@ Check out the complete notebook:
 [Open in nbviewer](https://nbviewer.org/github/HarshBiyani/stroke-prediction/blob/main/stroke_prediction.ipynb)
 
 ## 🌐 Project Page
-Live demo: [Site](https://HarshBiyani.github.io/stroke-prediction)
+Live demo: [Site](https://strokeprediction-9clh.onrender.com/stroke-prediction)
 
 ## 🚀 How to Run the Project Locally
 
