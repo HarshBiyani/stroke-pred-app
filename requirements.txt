@@ -1,4 +1,5 @@
-flask
+Flask
 flask-cors
 numpy
 scikit-learn
+gunicorn
